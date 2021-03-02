@@ -1,0 +1,88 @@
+body {
+    width: 1360px;
+    height: 1530px;
+}
+
+.cap {
+    padding: 28px 68px 25px 68px;
+}
+
+.logo {
+    margin-right: 325.5px;
+}
+
+.margin {
+    margin: auto 40px;
+}
+
+a {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    text-decoration: none;
+    color: #979797;
+}
+
+.text1 {
+    margin: 40px 0px 0px 69px;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 64px;
+}
+
+.block_info {
+    margin: 64px 13px 0px 13px;
+}
+
+.block_info_one {
+    margin: 64px 13px 0 68px;
+}
+
+.basement {
+    Width: 1360px;
+    Height: 332px;
+    padding: 30px;
+}
+
+.contenr {
+    float: left;
+}
+.contenr2 {
+    float: left;
+}
+
+.contenr3 {
+    margin-left: 900px;
+}
+
+.left_content_txt {
+    font-size: 14px;
+    line-height: 18px;
+    color: #333F48;
+    margin: 0px 136px 15px 0px;
+    opacity: 50%;
+   
+}
+.bottom_text{
+font-size: 14px;
+line-height: 18px;
+color: #333F48;
+margin: 104px 16px 0px 0px;
+opacity: 50%;
+}
+.left_content_tel{
+    font-size: 17px;
+line-height: 22px;
+font-weight: 600;
+color: #333F48;
+opacity: 50%;
+}
+.left_content_txt_box1{
+margin-bottom: 24px;
+font-size: 17px;
+line-height: 22px;
+color: #333F48;
+opacity: 50%;
+}
